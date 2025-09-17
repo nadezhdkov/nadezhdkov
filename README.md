@@ -29,7 +29,7 @@ Directory: /home/rickmviana/            Shell: /usr/bin/zsh
           .-MMMMMMMMMMMMMMM-.              ---------------
       .-MMMM`..-:::::::-..`MMMM-.          Role: Software Engineer 
     .:MMMM.:MMMMMMMMMMMMMMM:.MMMM:.        Specialization: Server-side & Cloud 
-   -MMM-M---MMMMMMMMMMMMMMMMMMM.MMM-       Languages: Go, Java, Elixer
+   -MMM-M---MMMMMMMMMMMMMMMMMMM.MMM-       Languages: Go, Java, Kotlin
  `:MMM:MM`  :MMMM:....::-...-MMMM:MMM:`    Tools: Docker, K8S, AWS 
  :MMM:MMM`  :MM:`  ``    ``  `:MMM:MMM:    Hobbies: program & gym 
 .MMM.MMMM`  :MM.  -MM.  .MM-  `MMMM.MMM.   Learning: 
