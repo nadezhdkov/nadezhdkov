@@ -57,7 +57,7 @@ root@localhost # cat contact.txt
    Email    :: - 
    GitHub   :: github.com/nadezhdnov
    LinkedIn :: - 
-   Discord  :: nadezhda
+   Discord  :: nadezh.da
    Website  :: -
    WhatsApp :: - 
 └──────────────────────────────────────────┘
