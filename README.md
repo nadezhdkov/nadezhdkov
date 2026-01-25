@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/rickmvi" target
+    <a href="https://github.com/nadezhdkov" target
 ="_blank"><img alt="GitHub" src="https://img.shields.io/badge/%40rickmvi-181717?style=flat-square&logo=GitHub&logoColor=white">
 </p>
   <p align="center">
@@ -16,8 +16,8 @@
 
 ```console
 root@localhost # cat me.txt
-Login: rick                             Name: R. Marques
-Directory: /home/rickmviana/            Shell: /usr/bin/zsh
+Login: Nade                           Name: N. Romanov
+Directory: /home/nadezhda/            Shell: /usr/bin/zsh
   - Focused on server-side development, cloud,
     CI/CD, and IaC with Terraform & OpenTofu
   - Mastering Go, Rust and Angular
@@ -25,7 +25,7 @@ Directory: /home/rickmviana/            Shell: /usr/bin/zsh
   - Building with Bukkit & BungeeCord
   - Shipping closed-source Java libraries
 
-             ...-:::::-...                 rick@linuxmint
+             ...-:::::-...                 nade@linuxmint
           .-MMMMMMMMMMMMMMM-.              ---------------
       .-MMMM`..-:::::::-..`MMMM-.          Role: Software Engineer 
     .:MMMM.:MMMMMMMMMMMMMMM:.MMMM:.        Specialization: Server-side & Cloud 
@@ -52,14 +52,14 @@ Directory: /home/rickmviana/            Shell: /usr/bin/zsh
 
 ```console
 root@localhost # cat contact.txt
-   : rickmviana@contact - Reach me!
+   : nadezhda@contact - Reach me!
 ┌──────────────────────────────────────────┐
-   Email    :: rickmviana.dev@outlook.com 
-   GitHub   :: github.com/rickmvi 
+   Email    :: - 
+   GitHub   :: github.com/nadezhdnov
    LinkedIn :: - 
-   Discord  :: rickmviana
+   Discord  :: nadezhda
    Website  :: -
-   WhatsApp :: +55 (88) 99443-3345 
+   WhatsApp :: - 
 └──────────────────────────────────────────┘
   ● ● ● ● ● ● ● ●
 ```
